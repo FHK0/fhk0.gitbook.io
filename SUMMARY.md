@@ -4,4 +4,9 @@
 
 * [🎭 FHK0](README.md)
 * [🖊 Author](welcome/author.md)
-* [Support us](welcome/support-us.md)
+
+## 🚩 WriteUps
+
+* [HackTheBox](writeups/hackthebox.md)
+* [TryHackMe](writeups/tryhackme.md)
+* [PortSwigger](writeups/portswigger.md)
