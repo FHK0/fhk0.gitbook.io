@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Hoşgeldiniz](README.md)
+## 🛰 Welcome!
+
+* [FHK0](README.md)
+* [Author](welcome/author.md)
+* [Support us](welcome/support-us.md)
