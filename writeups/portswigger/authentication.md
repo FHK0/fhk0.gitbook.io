@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/auth.jpg
-coverY: 0
+coverY: -68.10633946830265
 ---
 
 # Authentication
