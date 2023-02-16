@@ -17,6 +17,7 @@
         * [GET](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/get.md)
         * [POST](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/post.md)
         * [CRUD API](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/crud-api.md)
+        * [Web Requests Cheat Sheet](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/web-requests-cheat-sheet.md)
     * [Penetration Tester](writeups/hackthebox/learning-paths/penetration-tester.md)
   * [Machines](writeups/hackthebox/machines/README.md)
     * [Linux](writeups/hackthebox/machines/linux.md)
