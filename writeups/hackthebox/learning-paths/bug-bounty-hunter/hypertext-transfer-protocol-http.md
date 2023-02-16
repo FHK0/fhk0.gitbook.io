@@ -16,9 +16,8 @@ download.php
 
 File seems fine. Let’s open it:
 
-```bash
-root💀kali)-[~/Downloads/123]
-└─# cat download.php
-```
+<pre class="language-bash"><code class="lang-bash"><strong>(root💀kali)-[~/Downloads/123]
+</strong>└─# cat download.php
+</code></pre>
 
 <figure><img src="../../../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
