@@ -8,7 +8,10 @@
 ## 🚩 WriteUps
 
 * [HackTheBox](writeups/hackthebox/README.md)
-  * [Learning Paths](writeups/hackthebox/learning-paths.md)
+  * [Learning Paths](writeups/hackthebox/learning-paths/README.md)
+    * [Bug Bounty Hunter](writeups/hackthebox/learning-paths/bug-bounty-hunter/README.md)
+      * [HyperText Transfer Protocol (HTTP)](writeups/hackthebox/learning-paths/bug-bounty-hunter/hypertext-transfer-protocol-http.md)
+    * [Penetration Tester](writeups/hackthebox/learning-paths/penetration-tester.md)
   * [Machines](writeups/hackthebox/machines/README.md)
     * [Linux](writeups/hackthebox/machines/linux.md)
     * [Windows](writeups/hackthebox/machines/windows.md)
