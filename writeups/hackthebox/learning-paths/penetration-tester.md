@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/logo (1).png
-coverY: 24.373869346733667
+coverY: 22.918592964824118
 ---
 
 # 🗡 Penetration Tester

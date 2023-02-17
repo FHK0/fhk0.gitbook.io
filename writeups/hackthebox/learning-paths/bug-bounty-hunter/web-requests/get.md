@@ -23,4 +23,4 @@ Let’s send a simple cURL request to get the flag:
 └─# curl -H 'Authorization: Basic YWRtaW46YWRtaW4=' http://68.183.35.199:30104/search.php?search=flag
 ```
 
-<figure><img src="../../../../../.gitbook/assets/Untitled 1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled 1 (1).png" alt=""><figcaption></figcaption></figure>
