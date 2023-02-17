@@ -49,3 +49,8 @@
 ## 🌐 Web Attacks
 
 * [SQL Injection](web-attacks/sql-injection.md)
+
+## 🛠 Tools & Softwares
+
+* [cURL](tools-and-softwares/curl.md)
+* [Hydra](tools-and-softwares/hydra.md)
