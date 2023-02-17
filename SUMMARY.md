@@ -49,8 +49,14 @@
 ## 🌐 Web Attacks
 
 * [SQL Injection](web-attacks/sql-injection.md)
+* [XSS](web-attacks/xss.md)
 
 ## 🛠 Tools & Softwares
 
 * [cURL](tools-and-softwares/curl.md)
 * [Hydra](tools-and-softwares/hydra.md)
+
+## 🏫 College Courses
+
+* [Stanford](college-courses/stanford.md)
+* [MIT](college-courses/mit.md)
