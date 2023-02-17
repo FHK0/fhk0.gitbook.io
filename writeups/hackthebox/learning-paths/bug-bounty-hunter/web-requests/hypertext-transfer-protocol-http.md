@@ -20,4 +20,4 @@ File seems fine. Let’s open it:
 </strong>└─# cat download.php
 </code></pre>
 
-<figure><img src="../../../../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled (2) (1).png" alt=""><figcaption></figcaption></figure>

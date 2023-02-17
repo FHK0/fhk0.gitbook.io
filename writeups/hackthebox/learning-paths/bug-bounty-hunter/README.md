@@ -1,6 +1,6 @@
 ---
 cover: ../../../../.gitbook/assets/logo.png
-coverY: 0
+coverY: -53.845226130653266
 ---
 
 # Bug Bounty Hunter

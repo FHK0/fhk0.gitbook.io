@@ -15,4 +15,4 @@ Let’s send cURL request and look for the response.
 
 The answer is in the server header.
 
-<figure><img src="../../../../../.gitbook/assets/Untitled (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
