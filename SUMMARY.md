@@ -45,3 +45,7 @@
   * [SQL Injection](writeups/portswigger/sql-injection.md)
   * [Authentication](writeups/portswigger/authentication.md)
   * [Directory Traversal](writeups/portswigger/directory-traversal.md)
+
+## 🌐 Web Attacks
+
+* [SQL Injection](web-attacks/sql-injection.md)
