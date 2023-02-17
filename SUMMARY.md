@@ -9,7 +9,7 @@
 
 * [HackTheBox](writeups/hackthebox/README.md)
   * [Learning Paths](writeups/hackthebox/learning-paths/README.md)
-    * [Bug Bounty Hunter](writeups/hackthebox/learning-paths/bug-bounty-hunter/README.md)
+    * [🕷 Bug Bounty Hunter](writeups/hackthebox/learning-paths/bug-bounty-hunter/README.md)
       * [Web Requests](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/README.md)
         * [HyperText Transfer Protocol (HTTP)](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/hypertext-transfer-protocol-http.md)
         * [HTTP Requests and Responses](writeups/hackthebox/learning-paths/bug-bounty-hunter/web-requests/http-requests-and-responses.md)
@@ -30,7 +30,7 @@
         * [Development Frameworks & APIs](writeups/hackthebox/learning-paths/bug-bounty-hunter/introduction-to-web-applications/development-frameworks-and-apis.md)
         * [Common Web Vulnerabilities](writeups/hackthebox/learning-paths/bug-bounty-hunter/introduction-to-web-applications/common-web-vulnerabilities.md)
         * [Public Vulnerabilities](writeups/hackthebox/learning-paths/bug-bounty-hunter/introduction-to-web-applications/public-vulnerabilities.md)
-    * [Penetration Tester](writeups/hackthebox/learning-paths/penetration-tester.md)
+    * [🗡 Penetration Tester](writeups/hackthebox/learning-paths/penetration-tester.md)
   * [Machines](writeups/hackthebox/machines/README.md)
     * [Linux](writeups/hackthebox/machines/linux.md)
     * [Windows](writeups/hackthebox/machines/windows.md)
