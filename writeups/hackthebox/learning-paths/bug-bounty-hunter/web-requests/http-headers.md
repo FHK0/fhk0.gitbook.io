@@ -11,4 +11,4 @@ We spotted the flag request. Let’s send cURL request to get the flag.
 └─# curl http://161.35.169.248:30047/flag_327a6c4304ad5938eaf0efb6cc3e53dc.txt
 ```
 
-<figure><img src="../../../../../.gitbook/assets/Untitled 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled 1 (2).png" alt=""><figcaption></figcaption></figure>

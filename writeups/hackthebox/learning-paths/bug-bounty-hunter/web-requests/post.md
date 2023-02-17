@@ -16,4 +16,4 @@ Let’s reshape our command with only necessary headers and search for flag:
 curl -X POST -d '{"search":"flag"}' -H 'Content-Type: application/json' -H 'Cookie: PHPSESSID=t3jks0j77ncate6d7j0nvu9nn9' http://178.62.24.63:32137[/search.php](http://68.183.36.105:32270/search.php)
 ```
 
-<figure><img src="../../../../../.gitbook/assets/Untitled 1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled 1 (2) (1).png" alt=""><figcaption></figcaption></figure>
