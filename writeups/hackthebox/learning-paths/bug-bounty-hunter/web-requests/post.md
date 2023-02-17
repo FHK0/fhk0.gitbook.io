@@ -2,7 +2,7 @@
 
 ### Obtain a session cookie through a valid login, and then use the cookie with cURL to search for the flag through a JSON POST request to '/search.php’
 
-<figure><img src="../../../../../.gitbook/assets/Untitled (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
 
 The cURL command we copied is:
 
