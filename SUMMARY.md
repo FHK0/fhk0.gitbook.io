@@ -46,10 +46,10 @@
   * [Authentication](writeups/portswigger/authentication.md)
   * [Directory Traversal](writeups/portswigger/directory-traversal.md)
 
-## 🌐 Web Attacks
+## 🌐 eWPTXv2 Preparation
 
-* [SQL Injection](web-attacks/sql-injection.md)
-* [XSS](web-attacks/xss.md)
+* [Encoding and Filtering](ewptxv2-preparation/encoding-and-filtering.md)
+* [Evasion Basics](ewptxv2-preparation/evasion-basics.md)
 
 ## 🛠 Tools & Softwares
 
@@ -59,4 +59,3 @@
 ## 🏫 College Courses
 
 * [Stanford](college-courses/stanford.md)
-* [MIT](college-courses/mit.md)
